@@ -1,2 +1,1 @@
-Olá, Git!
-Git é muito legal
+Meu sonho como programador é fazer com que os desafios mais dificeis se tornem tão faceis que resolve-los se tornem um hábito.
